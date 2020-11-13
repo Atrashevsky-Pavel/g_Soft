@@ -1,1 +1,16 @@
-/* You can add global styles to this file, and also import other style files */
+#main {
+  width: 80%;
+  margin: 50px 10% 0px 10%;
+
+}
+.item {
+  display: flex;
+}
+.item div {
+  text-align: center;
+  box-sizing: border-box;
+  border: 1px solid black;
+  width: 33%;
+  padding: 10px 0px;
+}
+
